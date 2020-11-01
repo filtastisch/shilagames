@@ -1,1 +1,1 @@
-# shilagames
+# Shilagames plugin Wiki
